@@ -96,4 +96,4 @@ IPv6 很好的解决了 IPv4 的诸多问题，子网也能够更好的支持更
 ## 扩展阅读
 这篇文档中详细阐述了 IPv6 网络环境，内网中为什么不需要私有网络地址或者网络地址转换。
 * [RFC 4864, Local Network Protection for IPv6](https://datatracker.ietf.org/doc/html/rfc4864)  
-* [RFC 4864, 中文版（计划中）](#)
+* [RFC 4864, 中文版（进行中）](ieft/rfc4864.md)
